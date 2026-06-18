@@ -1,4 +1,4 @@
-# Customer Purchases Pipeline
+# Customer Purchases Pipeline (WORK IN PROGRESS)
 End‑to‑end data engineering project that ingests customer master data from an internal SQLite
 source and order data from an external REST API, applies professional data quality checks and
 transformations in Python, and loads curated analytics tables into a small data warehouse
