@@ -1,5 +1,5 @@
 # Customer data source (created by AI)
-# Customers raw data
+# RUN THIS BEFORE THE PIPELINE
 
 
 import sqlite3
