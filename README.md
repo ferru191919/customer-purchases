@@ -6,8 +6,8 @@ transformations in Python, and loads curated analytics tables into a small data 
 
 
 ## How to run
-a. Initialize source DB: python init_source_db.py
-b. Initialize warehouse DB: python init_target_db.py
+a. Initialize source DB: python init_source_db.py;               
+b. Initialize warehouse DB: python init_target_db.py;               
 c. Run the ETL pipeline: python etl.py
 
 
